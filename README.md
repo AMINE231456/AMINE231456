@@ -42,3 +42,8 @@ I'm a passionate self-taught developer building intelligent systems, interactive
 5. Tech Stack Hoarder - I love learning new technologies (current count: 15+ languages/frameworks)
 
 6. Future Goals - Launch my own SaaS product before graduating high school
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
