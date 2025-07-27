@@ -43,7 +43,11 @@ I'm a passionate self-taught developer building intelligent systems, interactive
 
 6. Future Goals - Launch my own SaaS product before graduating high school
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMINE231456&show_icons=true&theme=dark)                              ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMINE231456&layout=compact&theme=radical)
 
+![Custom Badge](https://img.shields.io/badge/My_Custom_Badge-FF5733?style=for-the-badge&logo=github)
+
+![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
