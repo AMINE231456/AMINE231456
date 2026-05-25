@@ -21,13 +21,6 @@ I am a developer and student focused on building clean, efficient software, expl
 
 ---
 
-### 📊 GitHub Stats
-
-![Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
-
----
-
 ### ⚡ Quick Logic
 > "Efficiency is intelligent laziness."
 
